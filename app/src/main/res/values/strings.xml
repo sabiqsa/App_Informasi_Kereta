@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">KeretaApi</string>
+
+    <string-array name="kelas">
+        <item>Kelas 1</item>
+        <item>Kelas 2</item>
+        <item>Kelas 3</item>
+    </string-array>
+
+    <string-array name="kereta">
+        <item>Kereta 1</item>
+        <item>Kereta 2</item>
+        <item>Kereta 3</item>
+    </string-array>
+
+    <string-array name="jalur">
+        <item>Jalur 1</item>
+        <item>Jalur 2</item>
+    </string-array>
+
+    <string name="title_activity_navigasi">Navigasi</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+</resources>

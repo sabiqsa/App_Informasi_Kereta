@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sabiqsa\.android\build-cache\542571310878cf9a52fb40037f96cce62be58ed8\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\sabiqsa\.android\build-cache\30dd31071a4b0fa28bc3c389664af6c47c410628\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\sabiqsa\.android\build-cache\17b0b06523d1312c01f38bc667889a226c32dbb1\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\sabiqsa\.android\build-cache\a29cc067aff701dca0c2767acf1422d1f4b48d95\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabiqsa\.android\build-cache\381c9e15beb6b525a49ef14e24f9b41ddc37bfa4\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\9a4af63f30dd9dc613f06acdc2cab429f5b1f548\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\e850e7222aae98b42d6f54895b73f42d49a62e65\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\0b070959b571c1244876067c8100e99bd92a2a95\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\b400306440bb6bcc8a147cc44ea4ebb1ac456ec4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\265fa47b2fcd0c6a96132930daab67a171d51cf7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\756313fdd5e7b87f5bc4213285aba3e8ce653a85\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\c7c1fe93c934359707a9996ba6bea9165fac1493\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\6c688b67245be280eeb8b4f57052ed9a9cf4b687\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\caec0d1fa49f47ec22e7e727b448ba70db524446\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\683c0e50ca48a61ecd6acae24d8934bace5a96c5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\d66807d17f05ffe84d1ff8dacdbe3760e7a20a2f\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.rizky.keretaapi.Beranda
+ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:12:19-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.rizky.keretaapi.Jadwal
+ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:19:9-44
+	android:name
+		ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:19:19-41
+activity#com.rizky.keretaapi.Info
+ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:20:9-42
+	android:name
+		ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:20:19-39
+activity#com.rizky.keretaapi.Masuk
+ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:21:9-43
+	android:name
+		ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:21:19-40
+activity#com.rizky.keretaapi.Petugas
+ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:22:9-45
+	android:name
+		ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:22:19-42
+activity#com.rizky.keretaapi.Lacak
+ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:23:9-43
+	android:name
+		ADDED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml:23:19-40
+uses-sdk
+INJECTED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sabiqsa\.android\build-cache\542571310878cf9a52fb40037f96cce62be58ed8\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\sabiqsa\.android\build-cache\30dd31071a4b0fa28bc3c389664af6c47c410628\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\sabiqsa\.android\build-cache\17b0b06523d1312c01f38bc667889a226c32dbb1\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\sabiqsa\.android\build-cache\a29cc067aff701dca0c2767acf1422d1f4b48d95\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabiqsa\.android\build-cache\381c9e15beb6b525a49ef14e24f9b41ddc37bfa4\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\9a4af63f30dd9dc613f06acdc2cab429f5b1f548\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\e850e7222aae98b42d6f54895b73f42d49a62e65\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\0b070959b571c1244876067c8100e99bd92a2a95\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\b400306440bb6bcc8a147cc44ea4ebb1ac456ec4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\ca4b941c88bd99a705ea238cc18cc2d73fe7d101\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\265fa47b2fcd0c6a96132930daab67a171d51cf7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\756313fdd5e7b87f5bc4213285aba3e8ce653a85\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\c7c1fe93c934359707a9996ba6bea9165fac1493\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\6c688b67245be280eeb8b4f57052ed9a9cf4b687\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\caec0d1fa49f47ec22e7e727b448ba70db524446\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\683c0e50ca48a61ecd6acae24d8934bace5a96c5\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\d66807d17f05ffe84d1ff8dacdbe3760e7a20a2f\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\9a4af63f30dd9dc613f06acdc2cab429f5b1f548\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\AndroidStudio\KeretaApi\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\sabiqsa\.android\build-cache\30dd31071a4b0fa28bc3c389664af6c47c410628\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\sabiqsa\.android\build-cache\30dd31071a4b0fa28bc3c389664af6c47c410628\output\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\sabiqsa\.android\build-cache\30dd31071a4b0fa28bc3c389664af6c47c410628\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\sabiqsa\.android\build-cache\30dd31071a4b0fa28bc3c389664af6c47c410628\output\AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\sabiqsa\.android\build-cache\30dd31071a4b0fa28bc3c389664af6c47c410628\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\sabiqsa\.android\build-cache\30dd31071a4b0fa28bc3c389664af6c47c410628\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\sabiqsa\.android\build-cache\30dd31071a4b0fa28bc3c389664af6c47c410628\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\sabiqsa\.android\build-cache\17b0b06523d1312c01f38bc667889a226c32dbb1\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\sabiqsa\.android\build-cache\17b0b06523d1312c01f38bc667889a226c32dbb1\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\sabiqsa\.android\build-cache\17b0b06523d1312c01f38bc667889a226c32dbb1\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\sabiqsa\.android\build-cache\17b0b06523d1312c01f38bc667889a226c32dbb1\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabiqsa\.android\build-cache\381c9e15beb6b525a49ef14e24f9b41ddc37bfa4\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabiqsa\.android\build-cache\381c9e15beb6b525a49ef14e24f9b41ddc37bfa4\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabiqsa\.android\build-cache\381c9e15beb6b525a49ef14e24f9b41ddc37bfa4\output\AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\9a4af63f30dd9dc613f06acdc2cab429f5b1f548\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\e850e7222aae98b42d6f54895b73f42d49a62e65\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\0b070959b571c1244876067c8100e99bd92a2a95\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\b400306440bb6bcc8a147cc44ea4ebb1ac456ec4\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\ca4b941c88bd99a705ea238cc18cc2d73fe7d101\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\265fa47b2fcd0c6a96132930daab67a171d51cf7\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\756313fdd5e7b87f5bc4213285aba3e8ce653a85\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\c7c1fe93c934359707a9996ba6bea9165fac1493\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\6c688b67245be280eeb8b4f57052ed9a9cf4b687\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\caec0d1fa49f47ec22e7e727b448ba70db524446\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\683c0e50ca48a61ecd6acae24d8934bace5a96c5\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\d66807d17f05ffe84d1ff8dacdbe3760e7a20a2f\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\9a4af63f30dd9dc613f06acdc2cab429f5b1f548\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\sabiqsa\.android\build-cache\9a4af63f30dd9dc613f06acdc2cab429f5b1f548\output\AndroidManifest.xml:26:9-47

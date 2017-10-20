@@ -1,0 +1,7 @@
+#Tue Oct 17 15:06:36 ICT 2017
+base.0=D\:\\Projects\\AndroidStudio\\KeretaApi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0e911e74da32ca379dcfe11b353e530d3b7ca385
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Projects\\AndroidStudio\\KeretaApi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9223cb12f302b3941158e50338a3741313010cba\\classes.dex
+base.1=D\:\\Projects\\AndroidStudio\\KeretaApi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9223cb12f302b3941158e50338a3741313010cba
+file.0=D\:\\Projects\\AndroidStudio\\KeretaApi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0e911e74da32ca379dcfe11b353e530d3b7ca385\\classes.dex
