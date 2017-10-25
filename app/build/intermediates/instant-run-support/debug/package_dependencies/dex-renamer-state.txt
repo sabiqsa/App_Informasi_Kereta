@@ -1,4 +1,4 @@
-#Tue Oct 17 12:32:39 ICT 2017
+#Tue Oct 24 12:35:51 ICT 2017
 file.2=D\:\\Projects\\AndroidStudio\\KeretaApi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e222134e197487c65918e9d8d3fbdd576bbc0c72\\classes.dex
 base.2=D\:\\Projects\\AndroidStudio\\KeretaApi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e222134e197487c65918e9d8d3fbdd576bbc0c72
 file.1=D\:\\Projects\\AndroidStudio\\KeretaApi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d57728b3d4dedf8ec468d338655095351592c1ed\\classes.dex

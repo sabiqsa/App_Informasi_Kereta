@@ -7,12 +7,12 @@
     tools:context="com.rizky.keretaapi.Info">
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/textViewTitle"
         android:layout_width="252dp"
         android:layout_height="47dp"
         android:layout_marginBottom="8dp"
         android:layout_marginTop="8dp"
-        android:text="Nama Kereta X"
+        android:text="Info Kereta X"
         android:textAlignment="center"
         android:textSize="30dp"
         android:textStyle="bold"
@@ -25,21 +25,21 @@
         tools:layout_editor_absoluteY="18dp" />
 
     <TextView
-        android:id="@+id/textView4"
+        android:id="@+id/textViewInfo"
         android:layout_width="253dp"
         android:layout_height="158dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
         android:text="Nama Kereta \nJumlah Gerbong\nJumlah Kursi \nStasiun Awal \nStasiun Akhir"
         android:textSize="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.522"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintHorizontal_bias="0.522"
         app:layout_constraintTop_toTopOf="parent"
-        android:layout_marginTop="8dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        android:layout_marginBottom="8dp"
         app:layout_constraintVertical_bias="0.85"
-        tools:layout_editor_absoluteY="295dp"
-        tools:layout_editor_absoluteX="68dp" />
+        tools:layout_editor_absoluteX="68dp"
+        tools:layout_editor_absoluteY="295dp" />
 
     <ImageView
         android:id="@+id/imageView"

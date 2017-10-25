@@ -4,6 +4,14 @@
         "source": "D:\\Projects\\AndroidStudio\\KeretaApi\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\KeretaApi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "D:\\AndroidStudioProjects\\KeretaApi\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\KeretaApi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\KeretaApi\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\Projects\\AndroidStudio\\KeretaApi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
         "source": "D:\\Projects\\AndroidStudio\\KeretaApi\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     }

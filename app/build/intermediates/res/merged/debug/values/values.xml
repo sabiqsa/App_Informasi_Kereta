@@ -1,18 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
-    <string-array name="jalur">
-        <item>Jalur 1</item>
-        <item>Jalur 2</item>
-    </string-array>
-    <string-array name="kelas">
+    <string-array name="daftarkelas">
         <item>Kelas 1</item>
         <item>Kelas 2</item>
         <item>Kelas 3</item>
     </string-array>
-    <string-array name="kereta">
+    <string-array name="kelas1">
         <item>Kereta 1</item>
         <item>Kereta 2</item>
         <item>Kereta 3</item>
+    </string-array>
+    <string-array name="kelas2">
+        <item>Kereta 4</item>
+        <item>Kereta 5</item>
+        <item>Kereta 6</item>
+    </string-array>
+    <string-array name="kelas3">
+        <item>Kereta 7</item>
+        <item>Kereta 8</item>
+        <item>Kereta 9</item>
+    </string-array>
+    <string-array name="kereta1">
+        <item>Jalur 1</item>
+        <item>Jalur 2</item>
+    </string-array>
+    <string-array name="kereta2">
+        <item>Jalur 3</item>
+        <item>Jalur 4</item>
+    </string-array>
+    <string-array name="kereta3">
+        <item>Jalur 5</item>
+        <item>Jalur 6</item>
+    </string-array>
+    <string-array name="kereta4">
+        <item>Jalur 7</item>
+        <item>Jalur 8</item>
+    </string-array>
+    <string-array name="kereta5">
+        <item>Jalur 9</item>
+        <item>Jalur 10</item>
+    </string-array>
+    <string-array name="kereta6">
+        <item>Jalur 11</item>
+        <item>Jalur 12</item>
+    </string-array>
+    <string-array name="kereta7">
+        <item>Jalur 13</item>
+        <item>Jalur 14</item>
+    </string-array>
+    <string-array name="kereta8">
+        <item>Jalur 15</item>
+        <item>Jalur 16</item>
+    </string-array>
+    <string-array name="kereta9">
+        <item>Jalur 17</item>
+        <item>Jalur 18</item>
     </string-array>
     <attr format="reference" name="constraintSet"/>
     <attr format="reference" name="drawerArrowStyle"/>
